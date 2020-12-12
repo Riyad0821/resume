@@ -15,14 +15,16 @@ title: About
 * Responsive single-page web app of professional services, authorization for users & admin panel.
 * Have different dashboard based on user or admin. Client can place order, see details & give reviews.
 * Admin can appoint new admin, add services, launch a new service, and change service status. <br />
-**Technology:** React, Router, Node.js, MongoDB, Express, Heroku, and Firebase.
+**Technology:** React, Router, Node.js, MongoDB, Express, Heroku, and Firebase.<br />
+
 #### **Volunteer Network** [Live Site](https://volunteer-network-56677.web.app/)  || [Repository](https://github.com/Riyad0821/volunteer-network)<br />
 *Features*
 * A single-page web app of the volunteer management system. Authorization for volunteers & admin panel.
 * A volunteer can choose social service based on interests, register himself/herself with proper info.
 *  Admin can add events, launch new events, and keep track of progress. <br />
 **Technology:** React, Router, Node.js, MongoDB, Material-UI, Bootstrap, Heroku, and Firebase. <br />
-#### **TRAVEL GURU** [Live Site](https://travel-guru-cb905.web.app/)  || [Repository](https://github.com/Riyad0821/travel-guru)<br />
+
+#### **Travel Guru** [Live Site](https://travel-guru-cb905.web.app/)  || [Repository](https://github.com/Riyad0821/travel-guru)<br />
 *Features*
 * A single-page web application for travelers, to discover information about places and hotels.
 * Authorization for users and admin panel & user can make a proper plan and book hotels.
@@ -34,7 +36,7 @@ title: About
 **Name of Institute:** Programming Hero (San Francisco, California) <br />
 **Topic Covered:** JHTML, CSS, Bootstrap, JavaScript, ES6, React, Redux (Basic), NodeJS, Express, Mongodb, Material UI, Firebase Authorization. <br />
 **Location:** Online <br />
-**Duration:** 6 months
+**Duration:** 6 months<br />
 
 ## **Problem Solving**
 ---
