@@ -31,9 +31,9 @@ title: About
 ## **Training Summary**
 ---
 **Name of Institute:** Programming Hero (San Francisco, California) <br />
-**Topic Covered:** JHTML, CSS, Bootstrap, JavaScript, ES6, React, Redux (Basic),            NodeJS, Express, Mongodb, Material UI, Firebase Authorization. <br />
-**Location:** Online
-**Location:** 6 months
+**Topic Covered:** JHTML, CSS, Bootstrap, JavaScript, ES6, React, Redux (Basic), NodeJS, Express, Mongodb, Material UI, Firebase Authorization. <br />
+**Location:** Online <br />
+**Duration:** 6 months
 
 ## **Problem Solving**
 ---
@@ -44,7 +44,7 @@ title: About
 ## **Education**
 ---
 **Bangladesh Open University** <br />
-*Bachelor of Science in Computer Science (2017 - 2021)* <br />
+*Bachelor of Science in Computer Science and Engineering (2017 - 2021)* <br />
 
 ## **Contact**
 ---
