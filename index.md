@@ -5,8 +5,9 @@ title: About
 ## **Areas of Expertise**
 ---
 * **Comfortable:** JavaScript, ES6, React.js, Redux, Material-UI, HTML5, CSS3, Bootstrap, Node.js, Express.js, MongoDB, and Mongoose.
-* **Familiar:** TypeScript, Gatsbay, Strapi, Graphql, and C# .NET
-* **Tools:** Git, GitHub, Jira, Bitbucket, Heroku, Netlify, Firebase, Ngrok, Figma, Adobe XD, VS Code, and Chrome Dev Tools
+* **Familiar:** TypeScript, Gatsbay, Strapi, Graphql, and C# .NET.
+* **Tools:** Git, GitHub, Jira, Bitbucket, Heroku, Netlify, Firebase, Ngrok, Figma, Adobe XD, VS Code, and Chrome Dev Tools.
+
 ## **Projects**
 ---
 #### **Creative Agency** [Live Site](https://creative-agency-6bd46.web.app/)  || [Repository](https://github.com/Riyad0821/creative-agency-client)<br />
@@ -41,6 +42,7 @@ title: About
 * Hackerrank Problem Solving (Basic) certified [Certificate](https://www.hackerrank.com/certificates/07887d21b722).
 * ICPC Dhaka Regional 2019 participant [Certificate](https://drive.google.com/file/d/1aah69dVmtWquqJShfkZlQlfpMwEBB6KS/view?usp=sharing).
 * DUET-IUPC 2019 participant [Certificate](https://drive.google.com/file/d/1cIlF5rsHnWkpmT3P8nyzTnalu9iw_NLt/view?usp=sharing).
+
 ## **Education**
 ---
 **Bangladesh Open University** <br />
